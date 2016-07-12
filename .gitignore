@@ -1,3 +1,11 @@
-.metadata/
-w4_patmat/bin
-w4_patmat/target
+**/.settings/*
+**/.worksheet/*
+**/.project/*
+**/bin/*
+**/.cache-main
+**/.cache-tests
+**/.classpath
+**/project/project/*
+**/project/target/*
+**/target/*
+**/.idea/*
